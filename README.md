@@ -10,5 +10,4 @@
 ✅ Ran First Python Program  
 ### First Python Program
 ```python
-print("Day 1 at Codomax...")
-print("Day 1 task has completed")
+print("Developed environment is ready")
