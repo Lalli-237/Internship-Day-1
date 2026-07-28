@@ -22,4 +22,5 @@
 ### First Python Program
 
 ```python
-print("Hello, Data Science!")
+print("Day 1 at Codomax...")
+print("Day 1 task has completed")
