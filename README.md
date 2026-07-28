@@ -8,12 +8,6 @@
 ✅ Installed Git  
 ✅ Created GitHub Repository  
 ✅ Ran First Python Program  
-### Software Installed
-- Python
-- Visual Studio Code
-- Jupyter Notebook
-- Git
-- GitHub
 ### First Python Program
 ```python
 print("Day 1 at Codomax...")
